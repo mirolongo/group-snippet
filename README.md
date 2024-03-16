@@ -51,4 +51,4 @@ app/public/script.js
 
 
 
-Now you can use all the features of the application locally in your browser. Have fun exploring and managing code snippets!
+Now you can use all the features of the application locally in your browser.
