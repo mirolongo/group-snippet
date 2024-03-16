@@ -11,6 +11,8 @@ This is a project that allows users to view, add, like, dislike, and delete code
 
 *Delete Snippets:* Users can delete snippets by clicking the trash icon ("🗑️"). This removes the snippet from the list and the API.
 
+**API:** https://www.forverkliga.se/JavaScript/api/api-snippets.php
+
 **Project Structure**
 
 _index.html:_ Contains the HTML structure of the application, including buttons, snippet container, and modal for adding snippets.
