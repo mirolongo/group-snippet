@@ -38,6 +38,7 @@ Start the Node.js server by running the command **node server.js**.
 Open a web browser and go to **http://localhost:3000** to access the application.
 
 **directory structure:**
+
 app/server.js
 
 app/public/index.html
