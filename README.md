@@ -37,4 +37,11 @@ Start the Node.js server by running the command **node server.js**.
 
 Open a web browser and go to **http://localhost:3000** to access the application.
 
+**directory structure:**
+app/server.js
+app/public/index.html
+app/public/styles.css
+app/public/script.js
+
+
 Now you can use all the features of the application locally in your browser. Have fun exploring and managing code snippets!
