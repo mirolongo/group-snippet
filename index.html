@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snippet Manager</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <button id="fetchBest">Fetch Best Snippets</button>
+    <button id="fetchLatest">Fetch Latest Snippets</button>
+    <button id="addNew">Add New Snippet</button>
+    <div id="snippets"></div>
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <input type="text" id="snippetTitle" placeholder="Enter title...">
+            <textarea id="snippetContent" placeholder="Enter content..." rows="6"></textarea>
+            <button id="saveSnippet">Save</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="styles.css">
+
+</body>
+</html>
